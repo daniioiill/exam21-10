@@ -1,0 +1,4 @@
+Testing countGenre:
+Count of Genre1: 3
+Count of Genre2: 2
+Count of Genre3: 0
